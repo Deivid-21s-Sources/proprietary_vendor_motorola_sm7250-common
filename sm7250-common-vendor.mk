@@ -195,16 +195,6 @@ PRODUCT_PACKAGES += \
     libGPreqcancel \
     libGPreqcancel_svc \
     libI420colorconvert \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxEvrcDec \
-    libOmxG711Dec \
-    libOmxQcelp13Dec \
-    libOmxVpp \
-    libOmxWmaDec \
     libOpenCL \
     libQSEEComAPI \
     libStDrvInt \
@@ -308,7 +298,6 @@ PRODUCT_PACKAGES += \
     libssc \
     libssc_default_listener \
     libssd \
-    libstagefright_soft_qtiflacdec \
     libthermalclient \
     libtime_genoff \
     libtrustedapploader \
@@ -361,11 +350,9 @@ PRODUCT_PACKAGES += \
     vendor.qti.imsrtpservice@3.0-vendor \
     vendor.qti.latency@2.0 \
     vendor.qti.latency@2.1 \
-    libOmxDsdDec \
     libadm \
     libadpcmdec \
     libdrc \
-    libdsd2pcm \
     libsurround_3mic_proc \
     com.qualcomm.qti.dpm.api@1.0-vendor \
     deviceInfoServiceModule \
