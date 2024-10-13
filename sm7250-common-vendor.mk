@@ -10,8 +10,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sm7250-common/proprietary/etc/permissions/privapp-permissions-qti.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-qti.xml \
     vendor/motorola/sm7250-common/proprietary/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptXHD_encoder.so \
     vendor/motorola/sm7250-common/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so \
-    vendor/motorola/sm7250-common/proprietary/product/etc/permissions/com.motorola.moto-uirefresh.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.motorola.moto-uirefresh.xml \
-    vendor/motorola/sm7250-common/proprietary/product/etc/permissions/com.motorola.motodisplay.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.motorola.motodisplay.xml \
     vendor/motorola/sm7250-common/proprietary/system_ext/etc/permissions/vendor.qti.hardware.data.connection-V1.0-java.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/vendor.qti.hardware.data.connection-V1.0-java.xml \
     vendor/motorola/sm7250-common/proprietary/system_ext/etc/permissions/vendor.qti.hardware.data.connection-V1.1-java.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/vendor.qti.hardware.data.connection-V1.1-java.xml \
     vendor/motorola/sm7250-common/proprietary/system_ext/bin/dpmd:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/dpmd \
